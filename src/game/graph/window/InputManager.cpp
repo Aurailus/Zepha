@@ -2,7 +2,7 @@
 // Created by aurailus on 09/04/19.
 //
 
-#include <glfw3.h>
+#include <GLFW/glfw3.h>
 #include "InputManager.h"
 
 InputManager::InputManager() {
